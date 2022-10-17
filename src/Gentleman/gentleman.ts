@@ -32,3 +32,4 @@ const gentleman: gentlemanList[] = [
     selected: true,
   },
 ];
+export default gentleman;
